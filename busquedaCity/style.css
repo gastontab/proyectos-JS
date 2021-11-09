@@ -1,0 +1,10 @@
+.resaltado{
+    background: yellow;
+}
+
+li{
+    list-style:none;
+    padding: 5px;
+    border-bottom: 1px solid #D8D8D8;
+    width: 300px;
+}
